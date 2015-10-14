@@ -1,0 +1,28 @@
+{
+  "name": "coffee_weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "dependencies": {
+    "webot-meiva": "^1.0.0",
+    "wechat-smp": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imyoka/coffee_weixin.git"
+  },
+  "keywords": [
+    "coffee",
+    "weixin"
+  ],
+  "author": "schwarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imyoka/coffee_weixin/issues"
+  },
+  "homepage": "https://github.com/imyoka/coffee_weixin#readme"
+}
